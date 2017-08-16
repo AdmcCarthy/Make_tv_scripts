@@ -1,2 +1,2 @@
-# Make_tv_scripts
-Use recurrent neural networks to generate new tv scripts for the Simpsons
+# Generate_TV_Scripts_RNNs
+Use a recurrent neural network to generate tv scripts 

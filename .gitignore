@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Don't store training weights
+save.data-00000-of-00001
+save.index
+save.meta
